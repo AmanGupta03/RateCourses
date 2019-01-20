@@ -1,2 +1,2 @@
 # RateCourses
-A Django powered web app , an app to compare online courses 
+A Django powered web app  to compare different online courses 
